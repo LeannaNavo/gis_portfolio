@@ -1,0 +1,15 @@
+title: "Leanna Navo — GIS Portfolio"
+description: "GIS projects and portfolio"
+baseurl: ""
+url: ""
+theme: minima
+
+navigation:
+  - title: "about me"
+    url: "/about/"
+  - title: "Projects"
+    url: "/projects/"
+  - title: "Blog"
+    url: "/blog/"
+  - title: "Contact"
+    url: "/contact/"
