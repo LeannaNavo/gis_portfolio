@@ -5,11 +5,9 @@ url: ""
 theme: minima
 
 navigation:
-  - title: "about me"
+  - title: "About Me"
     url: "/about/"
   - title: "Projects"
     url: "/projects/"
-  - title: "Blog"
-    url: "/blog/"
   - title: "Contact"
     url: "/contact/"
